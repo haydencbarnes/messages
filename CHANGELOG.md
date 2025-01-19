@@ -1,5 +1,8 @@
 # Messages Changelog
 
+## [Fix `Paste Latest OTP Code` Command for Phone #s] - 2025-01-19
+Added a number filter for OTP Code messages that include phone/cellular numbers that should not be used as OTP Codes for this command.
+
 ## [Add `Paste Latest OTP Code` command] - 2024-10-11
 
 Automatically finds and pastes the most recent one-time password (OTP) from your messages.
